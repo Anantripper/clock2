@@ -1,0 +1,13 @@
+#clock {
+    background-color: #6EE7B7;
+    font-size: 175px;
+    width: 900px;
+    margin: 200px;
+    text-align: center;
+    border: 5px solid #334155;
+    border-radius: 20px;
+   text-decoration-color: #334155;
+    }
+    *{
+        background-color: #95B2B8;
+    }
